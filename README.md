@@ -18,6 +18,8 @@ perkusja | gitara akustyczna | gitara basowa | keyboard | trąbka | śpiew kobie
 
 ### Instalacja Zależności
 
+Może wymagać zainstalowania css-loader (npm install css-loader)
+
 ```shell
 npm install
 ```
