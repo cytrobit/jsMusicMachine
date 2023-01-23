@@ -16,7 +16,7 @@ perkusja | gitara akustyczna | gitara basowa | keyboard | trąbka | śpiew kobie
 ### Dotknięcie na ekranie dotykowym - przytrzymujemy dane przyciski i gramy melodię
 ### Ścieżki zrobione przez Piotr "Liroy" Marzec (gitara akustyczna, keyboard, trąbka) oraz Marcin "Cytrobit" Ciesielski (reszta ścieżek)
 
-* [Working version:](https://www.cytrobit.com/akai)
+> Działająca w pełni wersja dostępna pod adresem: [`https://www.cytrobit.com/akai`](https://www.cytrobit.com/akai)
 
 ### Instalacja Zależności
 
